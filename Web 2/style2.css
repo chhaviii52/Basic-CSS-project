@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+.image{
+    
+    background-image: url("Thank\ You\ GIF\ -\ Thank\ You\ -\ Discover\ &\ Share\ GIFs.gif");
+    height: 400px;
+    width: 600px;
+    background-size: cover;
+    border: solid black 10px;
+    border-radius: 50px;
+}
+.text{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+    color: #e30580;
+}
